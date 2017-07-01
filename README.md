@@ -1,1 +1,1 @@
-# fastFM-core2-binaries
+``` shellg++ -static lib_sample_use.cpp -std=c++11 -lfastFM -lglog -pthread -I. -L.```
